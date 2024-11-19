@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vue 3 Vitest Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Vue 3 Vitest Project</h1>
+<h1>Vue 3 Vitest Project</h1>
     <p>This is a simple Vue 3 project configured with Vitest for testing, set up to help you get started with modern Vue development and automated testing using Test-Driven Development (TDD).</p>
     
     <h2>Table of Contents</h2>
@@ -119,6 +84,4 @@ cd vue3-vitest-project</code></pre>
 
     <h2 id="license">License</h2>
     <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
-</body>
-</html>
 
