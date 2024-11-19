@@ -61,6 +61,8 @@ cd vue3-vitest-project</code></pre>
 
 <h2 id="testing">Testing</h2>
 <p>This project uses Vitest for unit testing Vue components.</p>
+<h2>
+<a href="https://vitest.dev/guide/why.html" alt="Vitest Documentation - the official website" target="_blank">Vitest Documentation</a></h2>
 <ul>
 <li><strong>Unit Tests</strong>: Located in <code>tests/components/Counter.spec.js</code>.</li>
 <li>The tests include verifying the initial value of the counter, checking if the increment and decrement buttons update the counter value properly, and type checks using <code>assertType</code> and <code>expectTypeOf</code>.</li>
@@ -77,8 +79,6 @@ cd vue3-vitest-project</code></pre>
 <li><code>npm run dev:test</code>: Runs the development server and test watcher concurrently.</li>
 </ul>
 
-<h2>
-<a href="https://vitest.dev/guide/why.html" alt="Vitest Documentation - the official website" target="_blank">Vitest Documentation</a></h2>
 
 <h2 id="license">License</h2>
 <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
