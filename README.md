@@ -77,7 +77,7 @@ cd vue3-vitest-project</code></pre>
 <li><code>npm run dev:test</code>: Runs the development server and test watcher concurrently.</li>
 </ul>
 
-<h2><a href="https://vitest.dev/guide/why.html" alt="Vitest Documentation - the official website">Vitest Documentation</a></h2>
+<h2><a href="https://vitest.dev/guide/why.html" alt="Vitest Documentation - the official website" target="_blank">Vitest Documentation</a></h2>
 
 <h2 id="license">License</h2>
 <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
