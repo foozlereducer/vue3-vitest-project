@@ -14,8 +14,21 @@ const showCounter = ref(true);
 </script>
 
 <style scoped>
+@keyframes neonGlow {
+  0% {
+    filter: drop-shadow(0 0 20px #0ff) drop-shadow(0 0 40px #0ff) drop-shadow(0 0 60px #0ff);
+  }
+  100% {
+    filter: drop-shadow(0 0 0 #0ff);
+  }
+}
+
 .logo {
   width: 150px;
   margin-bottom: 20px;
+  animation: neonGlow 2s ease-in-out forwards;
 }
+
+
+
 </style>
