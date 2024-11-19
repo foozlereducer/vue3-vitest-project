@@ -64,7 +64,7 @@ cd vue3-vitest-project</code></pre>
 <h3>
 <a href="https://vitest.dev/guide/why.html" alt="Vitest Documentation - the official website" target="_blank">Vitest Documentation</a></h3>
 <ul>
-<li><strong>Unit Tests</strong>: Located in <code>tests/components/Counter.spec.js</code>.</li>
+<li><strong>Unit Tests</strong>: Located in <code>tests/components/</code>.</li>
 <li>The tests include verifying the initial value of the counter, checking if the increment and decrement buttons update the counter value properly, and type checks using <code>assertType</code> and <code>expectTypeOf</code>.</li>
 </ul>
 <p>To run the tests only:</p>
