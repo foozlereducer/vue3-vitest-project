@@ -33,7 +33,7 @@
 
 <h3 id="prerequisites">Prerequisites</h3>
 <p>Ensure you have Node.js (version 20.8.0 or higher) and npm installed. You can use <a href="https://github.com/nvm-sh/nvm">nvm</a> to manage Node.js versions.</p>
-
+<p>&#8505 Use your terminal to run the commands outlined in this guide.</p>
 <h3 id="installation">Installation</h3>
 <ol>
 <li>Clone this repository:
