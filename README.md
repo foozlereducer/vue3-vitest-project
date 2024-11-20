@@ -37,7 +37,7 @@
 <h3 id="installation">Installation</h3>
 <ol>
 <li>Clone this repository:
-<pre><code>git clone &lt;repository-url&gt;
+<pre><code>git clone "https://github.com/foozlereducer/vue3-vitest-project";
 cd vue3-vitest-project</code></pre>
  </li>
 <li>Install dependencies:
